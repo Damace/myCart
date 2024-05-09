@@ -1,0 +1,5 @@
+WMIC BIOS GET SERIALNUMBER
+
+cd C:\src\sdk\emulator
+
+emulator -avd Galaxy
